@@ -50,5 +50,7 @@ about:
     for displaying progress indicators in console applications.
 
 extra:
+  skip-lints:
+    - missing_wheel
   recipe-maintainers:
     - SoapZA
